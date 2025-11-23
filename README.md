@@ -85,7 +85,7 @@ There are no +s or -s, only letter grades.
 
 Points are earned in four ways:
 
-**Reaction Essays (50 points)**: You will write a Reaction Essay for 5 weeks during the semester (10 points each). Submit a two-page paper in reaction to the readings scheduled for that week. Essays may be single-spaced (approx. 1,000 words) or double-spaced (approx. 500 words) but not to exceed two pages. 
+**[Reaction Essays](materials/assignment_reaction_essay.md) (50 points)**: You will write a Reaction Essay for 5 weeks during the semester (10 points each). Submit a two-page paper in reaction to the readings scheduled for that week. Essays may be single-spaced (approx. 1,000 words) or double-spaced (approx. 500 words) but not to exceed two pages. 
 
 A Reaction Essay is not a simple summary or re-wording of the article abstracts. It is intended to serve as an intellectual exercise that may take the form of an agreement, disagreement, elaboration, contrast, parallel, or critical analysis of the work. The Reaction Essays prepare you for class discussion by helping you think critically about the readings before class.
 
@@ -98,13 +98,13 @@ Examples of sentences to get you started:
 
 Reaction Essays are due before class on the day the readings will be discussed.
 
-**Class Discussion and Participation (100 points)**: The learning experience in this seminar involves active sharing of thoughts during class discussions focused on the required readings. Come to class willing and prepared to voice your thoughts and opinions; ask questions during class. As you review assigned readings and write your Reaction Essays, consider: What is the main research question? What conclusion does the article provide? What evidence supports this conclusion? Is this evidence sound? What questions do you still have? Are there weaknesses in the methodology, statistics, or conclusions?
+**[Class Discussion and Participation](materials/guide_class_participation.md) (100 points)**: The learning experience in this seminar involves active sharing of thoughts during class discussions focused on the required readings. Come to class willing and prepared to voice your thoughts and opinions; ask questions during class. As you review assigned readings and write your Reaction Essays, consider: What is the main research question? What conclusion does the article provide? What evidence supports this conclusion? Is this evidence sound? What questions do you still have? Are there weaknesses in the methodology, statistics, or conclusions?
 
-**Video/Audio Analysis (50 points)**: For this assignment, you will watch a TED Talk video, TEDx Talk, podcast, or YouTube video (minimum 10 minutes) and write a 2-page (double-spaced) critique reflecting on core issues. Provide a reference or link to your selection. Include a very brief summary of the content and apply class principles in analyzing it. Select content involving an issue with psychological and global relevance (e.g., mental health, education, inequality, well-being).
+**[Video/Audio Analysis](materials/assignment_video_audio_analysis.md) (50 points)**: For this assignment, you will watch a TED Talk video, TEDx Talk, podcast, or YouTube video (minimum 10 minutes) and write a 2-page (double-spaced) critique reflecting on core issues. Provide a reference or link to your selection. Include a very brief summary of the content and apply class principles in analyzing it. Select content involving an issue with psychological and global relevance (e.g., mental health, education, inequality, well-being).
 
 Conduct a critical analysis of the video considering questions such as: What percentage of the content is unsupported by evidence? What are the descriptive and injunctive norms related to the issue? Does the presenter provide clarity for the main arguments? How does the presenter know what they claim to know? How could claims be tested experimentally? Are there good reasons to believe what is argued?
 
-**Final Presentation: TED Talk Video (150 points)**: Create your own 5-7 minute TED Talk on a topic of your choice. Unlike most TED Talks, yours should make clear that claims are based on existing logical, systematic, or empirical evidence. You may choose to revise the content from your Video/Audio Analysis assignment into an evidence-based version.
+**[Final Presentation: TED Talk Video](materials/assignment_final_ted_talk.md) (150 points)**: Create your own 5-7 minute TED Talk on a topic of your choice. Unlike most TED Talks, yours should make clear that claims are based on existing logical, systematic, or empirical evidence. You may choose to revise the content from your Video/Audio Analysis assignment into an evidence-based version.
 
 The first part of your TED Talk should detail a problem, issue, or call to action. The second part should focus on how experimental psychology and behavior genetics speak to the problem. How are science and evidence part of the solution?
 
@@ -134,13 +134,20 @@ During the first half of the course we will also be reading through Catherine Ba
 ### Frequently Used & Additional Resources
 
 - [Lecture recordings (Fall 2023) on Illinois Media Space](https://mediaspace.illinois.edu/channel/PSYC%2B408%2BFA23%2BHuman%2BBehavior%2BGenetics/313231162) (requires Illinois login)
-- [Template to summarize a Scholarly Source that is reporting an Empirical analysis of data](materials/template_summary_empirical_source.md)
-- [Template to summarize a Scholarly Source that is a Review of the existing literature](materials/template_summary_review_source.md)
-- [Essay Structure Template](materials/template_essay_structure.md)
-- [UIUC Department of Psychology list of internal and external Mental Health Resources](https://psychology.illinois.edu/resources/mental-health-resources)
-- [UIUC Student Assistance Center for finding support for all kinds of issues](https://odos.illinois.edu/community-of-care/CAREcenter)
-- [UIUC Disability Resources and Educational Services for accommodations](https://dres.illinois.edu/)
-- [UIUC DGS Student Success Toolkit for advice on note-taking, studying, and time management.](https://dgs.illinois.edu/toolkit)
+- **Course Assignments:**
+  - [Reaction Essay Assignment](materials/assignment_reaction_essay.md)
+  - [Video/Audio Analysis Assignment](materials/assignment_video_audio_analysis.md)
+  - [Final TED Talk Assignment](materials/assignment_final_ted_talk.md)
+  - [Class Discussion and Participation Guide](materials/guide_class_participation.md)
+- **Templates and Guides:**
+  - [Template to summarize a Scholarly Source that is reporting an Empirical analysis of data](materials/template_summary_empirical_source.md)
+  - [Template to summarize a Scholarly Source that is a Review of the existing literature](materials/template_summary_review_source.md)
+  - [Essay Structure Template](materials/template_essay_structure.md)
+- **Student Support Resources:**
+  - [UIUC Department of Psychology list of internal and external Mental Health Resources](https://psychology.illinois.edu/resources/mental-health-resources)
+  - [UIUC Student Assistance Center for finding support for all kinds of issues](https://odos.illinois.edu/community-of-care/CAREcenter)
+  - [UIUC Disability Resources and Educational Services for accommodations](https://dres.illinois.edu/)
+  - [UIUC DGS Student Success Toolkit for advice on note-taking, studying, and time management.](https://dgs.illinois.edu/toolkit)
 ## <a name="schedule"></a>Schedule and Materials
 
 This half-semester seminar covers seven weeks of intensive reading and discussion of primary research articles in behavior genetics, with particular emphasis on critical analysis, ethical implications, and science communication.
