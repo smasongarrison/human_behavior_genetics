@@ -8,9 +8,9 @@ You are going to write a review-article-style summary of what you've learned abo
 
 Good writing comes from editing. But before you can edit, you must draft. The goal at this stage is to get words onto paper so that we can work together to make it better.
 
-You will receive feedback on this draft from your instructor and your peers. Draft papers that (1) are shorter than 6 pages or (2) do not address course-relevant content (behavior genetics) or (3) are submitted late will receive reduced credit.
+You will receive feedback on this draft from your instructor. Draft papers that (1) are shorter than 6 pages or (2) do not address course-relevant content (behavior genetics) or (3) are submitted late will receive reduced credit.
 
-Follow the Assignment Instructions below to take what you've already written for your 10 scholarly source summaries and turn those notes into a narrative review paper.
+Follow the Assignment Instructions below to take what you've already written for your 5 scholarly source summaries and turn those notes into a narrative review paper.
 
 ## Objectives
 
