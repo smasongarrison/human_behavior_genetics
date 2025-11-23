@@ -89,7 +89,7 @@ Your analysis will be evaluated on:
 
 ## Tips for Success
 
-- **Watch/listen to something you haven't seen before.** Come to me for suggestions if needed.
+- **Watch/listen to something you haven't seen before.** Ask your instructor for suggestions if needed.
 - **Take notes while watching.** Pause to jot down specific claims, examples, or moments that stand out.
 - **Focus on analysis, not summary.** Your summary should be brief; the bulk of your essay should be critical analysis.
 - **Use specific examples.** Reference specific moments, claims, or arguments from the media when making your points.
