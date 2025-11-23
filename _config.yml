@@ -1,13 +1,13 @@
 title: Human Behavior Genetics, A Workbook
-author: Jaime Derringer
-email: jderr@illinois.edu
+author: Jaime Derringer and Mason Garrison
+email: garrissm@wfu.edu
 description: > # this means to ignore newlines until "twitter_username:"
-  Open educational materials from PSYC 408 at University of Illinois Urbana-Champaign
+  Adaptation of Open educational materials from PSYC 408 at University of Illinois Urbana-Champaign
 
 # social links
 # twitter_username: jekyllrb
-github_username:  jaimederringer
-google_scholar_username: DMSKadEAAAAJ
+github_username:  smasongarrison
+google_scholar_username: 5to21boAAAAJ
 # rss: rss
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -19,9 +19,9 @@ google_scholar_username: DMSKadEAAAAJ
 # googleplus_username: +jekyll
 
 # Mastodon instances
-mastodon:
- - username: geneforanarchy
-   instance: scholar.social
+#mastodon:
+# - username: geneforanarchy
+#   instance: scholar.social
 # - username: jekyll2
 #   instance: example.com
 
@@ -41,7 +41,7 @@ header_pages: ['']
 # Build settings
 theme: minima
   
-google_analytics: G-5ES13KP32S
+#google_analytics: G-5ES13KP32S
 
 plugins:
  - jekyll-feed
