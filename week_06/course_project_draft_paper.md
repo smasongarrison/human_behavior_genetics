@@ -35,7 +35,7 @@ A suggestion for how to move from your 5 article summaries to a draft of your pa
 6. Read your draft so far. Go back over your summaries to copy-and-paste any text you may not yet have included that seems relevant now that you have a general structure to your paper. Additional material from your summaries of any review papers often makes excellent introductions/conclusions/transitions between sections.
 7. Before the first theme section, write an introduction: what is your topic, and why is it important?
 8. After the last theme section, write a Discussion where you briefly summarize what your above-detailed description of the current literature shows, and what in your opinion would be the best recommended next steps for research on this topic to move forward.
-9. Once you have this full rough first draft, edit. [Go through these tips for self-editing your writing.]()
+9. Once you have this full rough first draft, edit and revise carefully.
 10. If you notice while editing that one (or more) of your theme sections is a little sparse, find one or two more sources on that topic to fill out what you already have. In addition to searching for new articles through Google Scholar, you may want to review course readings for additional recommendations.
 
 An illustration of the process to reorganize the writing you've done for your article summaries into a rough draft:

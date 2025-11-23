@@ -133,6 +133,8 @@ During the first half of the course we will also be reading through Catherine Ba
 
 ## Schedule and Materials
 
+**Note**: Lecture notes and activity files are referenced from their original week directories in the repository, even though the course schedule has been condensed to 8 weeks. This maintains compatibility with the original full-semester materials while allowing the half-semester schedule.
+
 ### <a name="part_1"></a>Part I: Foundations
 
 #### Week 1. What We Know and What We Don't
